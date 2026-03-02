@@ -1,4 +1,4 @@
-# 📦 SmartStock AI
+
 ### Intelligent Inventory Demand Forecasting
 
 
@@ -14,10 +14,3 @@
 * **FastAPI Backend:** A robust API that serves model predictions on port 8001.
 * **Trend Analysis:** Visualizes historical vs. forecasted data using Plotly.
 
-## 🛠️ Installation & Setup
-1. **Clone the repo:** `git clone https://github.com/YOUR_USERNAME/SmartStock-AI.git`
-2. **Backend:** - `cd Backend`
-   - `uvicorn api.main:app --port 8001`
-3. **Frontend:**
-   - `cd Frontend`
-   - `streamlit run app.py --server.port 8502`
